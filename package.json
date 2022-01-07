@@ -1,0 +1,35 @@
+{
+	"name": "stackoverprof-starter",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next -p 7000",
+		"lint": "next lint",
+		"build": "next build",
+		"start": "next start",
+		"check": "prettier -c .",
+		"format": "prettier -w ."
+	},
+	"dependencies": {
+		"next": "^11.1.0",
+		"nextjs-progressbar": "^0.0.8",
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2",
+		"react-icons": "^4.2.0"
+	},
+	"devDependencies": {
+		"@next/eslint-plugin-next": "^11.1.0",
+		"@types/node": "^15.14.4",
+		"@types/react": "^17.0.15",
+		"@typescript-eslint/eslint-plugin": "^4.28.5",
+		"@typescript-eslint/parser": "^4.28.5",
+		"autoprefixer": "^10.3.1",
+		"eslint": "^7.32.0",
+		"eslint-config-next": "^11.1.0",
+		"eslint-plugin-react": "^7.23.2",
+		"postcss": "^8.3.6",
+		"prettier": "^2.3.1",
+		"tailwindcss": "^2.2.7",
+		"typescript": "^4.3.5"
+	}
+}
