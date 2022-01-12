@@ -38,7 +38,7 @@ const Index = (): JSX.Element => {
         <p className="flex-cc gap-1 text-lg">
           Timeline prokeran disini :
           <Link
-            href="https://docs.google.com/spreadsheets/d/1LOlMw2sogtJqYt-C6u6flH_FD8RNKyNAVByxQjzq6Q4/edit#gid=1177070534"
+            href="https://docs.google.com/spreadsheets/d/1LOlMw2sogtJqYt-C6u6flH_FD8RNKyNAVByxQjzq6Q4/edit#gid=578859445"
             target="_blank"
             className="font-bold underline"
           >
